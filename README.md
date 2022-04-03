@@ -1,8 +1,10 @@
-# Rozpoznawanie typu trójkąta
+#Rozpoznawanie typu trójkąta
 Prototyp - nie zaleca się używać na produkcji.
 
 ## Kompilowanie
 `javac trojkaty.java`
 
 ## Uruchamianie
-`java trojkaty 1 2 3`
+`ijava trojkaty 1 2 3`
+
+## TESTESTEST
